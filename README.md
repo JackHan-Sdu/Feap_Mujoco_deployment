@@ -1,5 +1,22 @@
 # Supplementary Materials for "FEAP: Feature-Enhanced Adversarial Priors for Unified Multistyle Humanoid Locomotion on Complex Terrains"
 
+## Demo Videos
+
+<div align="center">
+
+### Full-Scenario Test Simulation
+<video src="video/S0_1_Full-Scenario_Test_Simulation.mp4" width="800" controls></video>
+
+### Omnidirectional Disturbance Test Simulation
+<video src="video/S0_2_Omnidirectional_Disturbance_Test_Simulation.mp4" width="800" controls></video>
+
+### Running Across Terrain Simulation
+<video src="video/S0_3_Running_Across_Terrain_Simulation.mp4" width="800" controls></video>
+
+</div>
+
+---
+
 ## Overview
 
 This repository provides the deployment and validation framework for **FEAP** (Feature-Enhanced Adversarial Priors), a unified learning framework that enables a single policy to acquire multiple human-like locomotion styles on complex terrains within a single training phase.
