@@ -44,9 +44,9 @@ REMOTE=$(git remote | grep -E '^(github|origin)$' | head -1)
 if [ -z "$REMOTE" ]; then
     REMOTE="origin"
 fi
-# 推送到 main 分支，显示进度
-echo "   正在推送分支 main..."
-git push --progress -u $REMOTE main
+# 使用强制推送（--force-with-lease 更安全，会检查远程是否有其他人的提交）
+echo "   正在强制推送分支 main..."
+git push --progress --force-with-lease -u $REMOTE main
 
 echo ""
 echo "=== 推送完成！ ==="
