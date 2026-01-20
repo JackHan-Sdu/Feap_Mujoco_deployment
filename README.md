@@ -2,33 +2,23 @@
 
 ## Demo Videos
 
-> **Note**: Click on the thumbnails below to watch the videos on YouTube.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=a18HyjLmOHE">
+    <img src="https://img.youtube.com/vi/a18HyjLmOHE/0.jpg" width="32%">
+  </a>
+  <a href="https://www.youtube.com/watch?v=SR4RNRjj9vs">
+    <img src="https://img.youtube.com/vi/SR4RNRjj9vs/0.jpg" width="32%">
+  </a>
+  <a href="https://www.youtube.com/watch?v=eaHBSyXh_Aw">
+    <img src="https://img.youtube.com/vi/eaHBSyXh_Aw/0.jpg" width="32%">
+  </a>
+</p>
 
-<div align="center">
-
-### Full-Scenario Test Simulation
-
-[![Full-Scenario Test Simulation](https://img.youtube.com/vi/a18HyjLmOHE/maxresdefault.jpg)](https://www.youtube.com/watch?v=a18HyjLmOHE)
-
-**[▶ Watch on YouTube](https://www.youtube.com/watch?v=a18HyjLmOHE)**
-
-<br>
-
-### Omnidirectional Disturbance Test Simulation
-
-[![Omnidirectional Disturbance Test Simulation](https://img.youtube.com/vi/SR4RNRjj9vs/maxresdefault.jpg)](https://www.youtube.com/watch?v=SR4RNRjj9vs)
-
-**[▶ Watch on YouTube](https://www.youtube.com/watch?v=SR4RNRjj9vs)**
-
-<br>
-
-### Running Across Terrain Simulation
-
-[![Running Across Terrain Simulation](https://img.youtube.com/vi/eaHBSyXh_Aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=eaHBSyXh_Aw)
-
-**[▶ Watch on YouTube](https://www.youtube.com/watch?v=eaHBSyXh_Aw)**
-
-</div>
+<p align="center">
+<b>Left:</b> Full-Scenario Test Simulation &nbsp; | &nbsp;
+<b>Middle:</b> Omnidirectional Disturbance Test &nbsp; | &nbsp;
+<b>Right:</b> Running Across Terrain
+</p>
 
 ---
 
