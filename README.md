@@ -5,13 +5,13 @@
 <div align="center">
 
 ### Full-Scenario Test Simulation
-<video src="video/S0_1_Full-Scenario_Test_Simulation.mp4" width="800" controls></video>
+[![Full-Scenario Test Simulation](https://img.youtube.com/vi/a18HyjLmOHE/0.jpg)](https://www.youtube.com/watch?v=a18HyjLmOHE)
 
 ### Omnidirectional Disturbance Test Simulation
-<video src="video/S0_2_Omnidirectional_Disturbance_Test_Simulation.mp4" width="800" controls></video>
+[![Omnidirectional Disturbance Test Simulation](https://img.youtube.com/vi/SR4RNRjj9vs/0.jpg)](https://www.youtube.com/watch?v=SR4RNRjj9vs)
 
 ### Running Across Terrain Simulation
-<video src="video/S0_3_Running_Across_Terrain_Simulation.mp4" width="800" controls></video>
+[![Running Across Terrain Simulation](https://img.youtube.com/vi/eaHBSyXh_Aw/0.jpg)](https://www.youtube.com/watch?v=eaHBSyXh_Aw)
 
 </div>
 
